@@ -1,0 +1,56 @@
+h1 {
+  font-size: 50px;
+  font-family: 'Roboto', sans-serif;
+}
+
+section {
+  display: flex;
+  margin-left: 20px;
+}
+
+.score {
+  margin-left: 25%;
+  display: block;
+  flex-direction: column;
+  margin-top: 145px;
+}
+
+#numbers {
+  border: 3px solid black;
+  height: 300px;
+}
+
+.score input {
+  height: 20px;
+  display: block;
+  margin-top: 10px;
+}
+
+.recent {
+  display: flex;
+}
+
+button {
+  margin-top: 15px;
+  width: 60px;
+  margin-left: 65%;
+  height: 20px;
+  box-shadow: 3px 3px;
+}
+
+#refresh {
+  margin-left: 29px;
+  font-size: small;
+  padding: 4px;
+  height: 15px;
+  margin-top: 23px;
+  font-family: 'Roboto', sans-serif;
+  border: 3px solid black;
+  box-shadow: 3px 3px;
+}
+
+#src {
+  margin-left: 80px;
+  font-size: x-large;
+  font-family: 'Roboto', sans-serif;
+}
