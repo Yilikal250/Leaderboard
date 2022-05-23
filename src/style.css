@@ -1,15 +1,14 @@
 h1 {
   font-size: 50px;
-  font-family: 'Roboto', sans-serif;
 }
 
 section {
   display: flex;
-  margin-left: 20px;
+  margin-left: 3%;
 }
 
 .score {
-  margin-left: 25%;
+  margin-left: 10%;
   display: block;
   flex-direction: column;
   margin-top: 145px;
