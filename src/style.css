@@ -15,9 +15,11 @@ section {
   margin-top: 145px;
 }
 
-#numbers {
+.numbers {
   border: 3px solid black;
-  height: 300px;
+  height: 100%;
+  list-style: none;
+  text-align: left;
 }
 
 .score input {
@@ -33,9 +35,9 @@ section {
 button {
   margin-top: 15px;
   width: 60px;
-  margin-left: 65%;
   height: 20px;
   box-shadow: 3px 3px;
+  margin-left: 54%;
 }
 
 #refresh {
@@ -53,4 +55,14 @@ button {
   margin-left: 80px;
   font-size: x-large;
   font-family: 'Roboto', sans-serif;
+}
+
+ul li {
+  margin-left: -32px;
+}
+
+.left-sec li:nth-child(even) {
+  background-color: rgb(228, 228, 228);
+  margin-left: -39px;
+  padding-left: 6px;
 }
