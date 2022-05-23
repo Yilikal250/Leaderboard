@@ -1,10 +1,10 @@
 # Project Name
 
-> To Do List
+> Leaderboard
 
-# To-Do-List
+# Leaderboard
 
-> This is a microverse project to make a simple To-Do-List website that displays a list of tasks and allows you to add and remove those tasks from that list.
+> This is a microverse project to make a simple Leaderboard website that displays a list of names and scores which will alow you to add name with score.
 
 ## Built With
 
@@ -12,28 +12,10 @@
 - CSS
 - JavaScript
 
-## Getting Started
-
-**This is a To Do List. It shows a minimalist desing with the nex features:**
-
-**Add new tasks**
-
-**Edit tasks**
-
-**Markup completed tasks**
-
-**Erase completed tasks**
-
-**Drag and Drop**
-
-**This project was made with HTML, CSS and Javascript.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
-[To do List Live Demo Link ](https://yilikal250.github.io/webpack-demo/dist/)
+yet to come
 
 
 ## Setup
