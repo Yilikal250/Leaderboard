@@ -21,7 +21,7 @@ async function getData() {
   const data = await response.json();
   render(data);
 }
-
+/* eslint-disable */
 async function createGame() {
   await fetch(apiUrl, {
     method: 'POST',
@@ -48,4 +48,3 @@ document.addEventListener('click', (button) => {
     getData();
   }
 });
-createGame();
