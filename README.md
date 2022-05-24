@@ -1,18 +1,23 @@
 # Project Name
 
-> leader board
+feature
+> Leaderboard
 
-# leader board
+# Leaderboard
 
 > This is a microverse project to make a simple leader board website using API that displays a list of names and scores.
+=======
+> Leaderboard
+
+# Leaderboard
+
+> This is a microverse project to make a simple leader board website using API that displays a list of names and scores.
+development
 
 ## Built With
-
 - HTML
 - CSS
 - JavaScript
-
-To get a local copy up and running follow these simple example steps.
 
 ## Live Demo
 
